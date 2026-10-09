@@ -1,3 +1,8 @@
 
 # local reproduction outputs (large)
 outputs/
+
+# local datasets / downloads (large, never push)
+data/
+__pycache__/
+*.pyc
